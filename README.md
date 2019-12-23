@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/stephenlien/stephenlien/_apis/build/status/evercognizant.pipelines-java?branchName=master)](https://dev.azure.com/stephenlien/stephenlien/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
